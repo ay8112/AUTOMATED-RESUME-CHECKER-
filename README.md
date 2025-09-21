@@ -47,7 +47,7 @@ Automated-Resume-Screening-System/
 
 Clone the repository:
 
-git clone https://github.com/AY8112/Automated-Resume-Screening-System.git
+git clone https://github.com/ay8112/Automated-Resume-Screening-System.git
 cd Automated-Resume-Screening-System
 
 
